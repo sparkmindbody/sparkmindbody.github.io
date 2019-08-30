@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sunghospark.com/categories/</loc>
+    <loc>https://sunghospark.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sunghospark.com/</loc>
+    <loc>https://sunghospark.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sunghospark.com/sungho-spark/</loc>
+    <loc>https://sunghospark.com/sungho-spark/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://sunghospark.com/tags/</loc>
+    <loc>https://sunghospark.com/tags/</loc>
     <priority>0</priority>
   </url>
   
