@@ -4,3 +4,13 @@ iframe {
     display: block;
     margin: 0 auto;
 }
+
+.btn-transparent {
+    border: 1px solid #4e595f;
+    background-color: #F7941D;
+  }
+  
+  .hero-area .block p {
+    background: rgba(0, 0, 0, 0.6);
+    width: 50%;
+  }
